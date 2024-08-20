@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I’m a Full-stack developer with a love for build
 I’m a software enthusiast with a focus on frontend and backend development. I thrive on solving problems and turning ideas into functional applications. My journey began with a fascination for coding, and now I’m excited to contribute to projects and collaborate with others.
 🌟 Skills and Technologies I Love
 
-    Languages: JavaScript (ES6+), TypeScript, HTML, CSS
-    Frontend: React, Next.js, Vue.js, Tailwind CSS
-    Backend: Node.js, Express, PostgresSQL, MongoDB, Python
-    Tools: Git, Docker, Postman, Webpack
-    Other: Playwright, REST APIs, CI/CD, Bubble.io (for quick mockups
+- Languages: JavaScript (ES6+), TypeScript, HTML, CSS
+- Frontend: React, Next.js, Vue.js, Tailwind CSS
+- Backend: Node.js, Express, PostgresSQL, MongoDB, Python
+- Tools: Git, Docker, Postman, Webpack
+- Other: Playwright, REST APIs, CI/CD, Bubble.io (for quick mockups
 
 📚 Current Focus
 
