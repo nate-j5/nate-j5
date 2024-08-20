@@ -37,8 +37,8 @@ I'm currently working with the development team at FundOne to build a funding li
 ___
 <h2>📫 Let's Connect!</h2>
 
-- [LinkedIn](https://www.linkedin.com/in/nate-j-42168763/)
-- [natej.dev](https://www.linkedin.com/in/nate-j-42168763/) 
+- [LinkedIn](https://www.google.com/)
+- [natej.dev](https://www.google.com/) 
 
 ---
 Thanks for visiting! Feel free to reach out for more details on upcoming projects.
