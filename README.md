@@ -27,12 +27,6 @@ I'm currently working with the development team at FundOne to build a funding li
 - Description: A platform for discovering and managing local events. Users can search for events, view details, and RSVP. The app also includes a feature for event organizers to post new events.
 - View Project: [Website](https://www.google.com/)
 
-<h3>JerseyTalk</h3>
-
-- Role: Lead-Developer
-- Tech Stack: TypeScript, React, Node.js, Express, MongoDB
-- Description: A web application that uses large language models to summarize legislation.
-- View Project: [Website](https://www.google.com/)
 
 ___
 <h2>📫 Let's Connect!</h2>
