@@ -12,8 +12,8 @@ I have experience in writing code and technical documentation for small and larg
 - Frontend: React, Next.js, Tailwind CSS
 - Backend: Node.js, Express, Python
 - Databases: PostgresSQL, MongoDB
-- Tools: Git, Docker, Postman, Webpack
-- Other: Playwright, REST APIs, CI/CD, Bubble.io (for mock-ups)
+- Tools: Jest, Docker, Git, Postman, Webpack, Vite, Playwright
+- Other: Figma, Bubble.io (for mock-ups)
 
 
 <h2>📚 Currently</h2>
