@@ -9,7 +9,7 @@ I have experience in writing code and technical documentation for small and larg
 🌟  Technologies 
 
 - Languages: JavaScript (ES6+), TypeScript, HTML, CSS
-- Frontend: React, Next.js, Vue.js, Tailwind CSS
+- Frontend: React, Next.js, Tailwind CSS
 - Backend: Node.js, Express, Python
 - Databases: PostgresSQL, MongoDB, MySQL, SQL Server
 - Tools: Git, Docker, Postman, Webpack
