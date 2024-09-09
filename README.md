@@ -11,7 +11,7 @@ I have experience in writing code and technical documentation for small and larg
 - Languages: JavaScript (ES6+), TypeScript, HTML, CSS
 - Frontend: React, Next.js, Tailwind CSS
 - Backend: Node.js, Express, Python
-- Databases: PostgresSQL, MongoDB, MySQL, SQL Server
+- Databases: PostgresSQL, MongoDB
 - Tools: Git, Docker, Postman, Webpack
 - Other: Playwright, REST APIs, CI/CD, Bubble.io (for mock-ups)
 
