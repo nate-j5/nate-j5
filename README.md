@@ -18,7 +18,7 @@ I have experience in writing code and technical documentation for small and larg
 
 <h2>📚 Currently</h2>
 
-I'm currently working on changes to MapScout. View at [www.mapscout.site](https://www.mapscout.site/).
+I'm currently working on changes to MapScout | [www.mapscout.site](https://www.mapscout.site/).
 
 <h3>Code The Dream</h3>
 
@@ -30,7 +30,7 @@ ___
 <h2>📫 Let's Connect</h2>
 
 - [LinkedIn](https://www.linkedin.com/in/nate-j-42168763/)
-- [natej.dev](https://portfolio-website-nj.onrender.com/) 
+- [Website](https://portfolio-website-nj.onrender.com/) 
 
 ---
 Thanks for visiting, feel free to reach out for more details on upcoming projects.
