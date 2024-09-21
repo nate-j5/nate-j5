@@ -18,21 +18,19 @@ I have experience in writing code and technical documentation for small and larg
 
 <h2>📚 Currently</h2>
 
-I'm currently working with the development team at FundOne to build a funding library for the State of Texas.
+I'm currently working on changes to MapScout. View at [www.mapscout.site](https://www.mapscout.site/).
 
-<h3>FundOne</h3>
+<h3>Code The Dream</h3>
 
 - Role: Full-stack Developer
-- <b>Tech Stack:</b> Next.js, Tailwind CSS, GraphQL, Python/Flask
-- Description: A platform for discovering and managing local events. Users can search for events, view details, and RSVP. The app also includes a feature for event organizers to post new events.
-- View Project: [Website](https://www.google.com/)
-
+- <b>Tech Stack:</b> Next.js, Tailwind CSS, Express, PostgreSQL
+- Description: Non-profit program helping students transition to professional engineering.
 
 ___
-<h2>📫 Let's Connect!</h2>
+<h2>📫 Let's Connect</h2>
 
-- [LinkedIn](https://www.google.com/)
-- [natej.dev](https://www.google.com/) 
+- [LinkedIn](https://www.linkedin.com/in/nate-j-42168763/)
+- [natej.dev](https://portfolio-website-nj.onrender.com/) 
 
 ---
-Thanks for visiting! Feel free to reach out for more details on upcoming projects.
+Thanks for visiting, feel free to reach out for more details on upcoming projects.
