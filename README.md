@@ -1,6 +1,6 @@
 <h1>Hi, I'm Nate! 👋</h1>
 
-I'm a full-stack developer with a love for building applications and exploring new technologies. 
+And I love for building applications and exploring new technologies. 
 
 🚀 About Me
 
