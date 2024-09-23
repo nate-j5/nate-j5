@@ -1,6 +1,6 @@
 <h1>Hi, I'm Nate! 👋</h1>
 
-And I love for building applications and exploring new technologies. 
+I love building applications and exploring new technologies. 
 
 🚀 About Me
 
