@@ -30,7 +30,6 @@ ___
 <h2>📫 Let's Connect</h2>
 
 - [LinkedIn](https://www.linkedin.com/in/nate-j-42168763/)
-- [Website](https://portfolio-website-nj.onrender.com/) 
 
 ---
 Thanks for visiting, feel free to reach out for more details on upcoming projects.
