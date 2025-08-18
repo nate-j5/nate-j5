@@ -4,7 +4,7 @@ I love building applications and exploring new technologies.
 
 🚀 About Me
 
-I have experience in writing code and technical documentation for small and large-scale projects. For the personal projects listed on my GitHub, I've included `README` files for each directory which provide additional detail on how projects work and why certain decisions were made. 
+I have experience in writing code and technical documentation for small and large-scale projects.
 
 🌟  Technologies 
 
@@ -18,13 +18,7 @@ I have experience in writing code and technical documentation for small and larg
 
 <h2>📚 Currently</h2>
 
-I'm currently working on changes to MapScout | [www.mapscout.site](https://www.mapscout.site/).
-
-<h3>Code The Dream</h3>
-
-- Role: Full-stack Developer
-- <b>Tech Stack:</b> Next.js, Tailwind CSS, Express, PostgreSQL
-- Description: Non-profit program helping students transition to professional engineering.
+I'm currently working on AI Automation
 
 ___
 <h2>📫 Let's Connect</h2>
